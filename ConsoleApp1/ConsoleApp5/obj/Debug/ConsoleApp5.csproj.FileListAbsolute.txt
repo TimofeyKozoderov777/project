@@ -1,0 +1,8 @@
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\Новая папка\repos\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
