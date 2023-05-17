@@ -21,8 +21,8 @@ namespace ConsoleApp5
             int playerDamageDealt = (int)Math.Ceiling(MDamage / (double)MDefense);
             int monsterDamageDealt = (int)Math.Ceiling(PDamage / (double)PDefense);
 
-            PHealth = monsterDamageDealt;
-            PHealth = playerDamageDealt;
+            PHealth -= monsterDamageDealt;
+            PHealth -= playerDamageDealt;
 
             Console.WriteLine("У игрока осталось " + PHealth + " единиц здоровья");
             Console.WriteLine("У монстра осталось " + MHealth + " единиц здоровья");
